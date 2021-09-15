@@ -1,5 +1,3 @@
 # anzhou99.github.io
 
-### 简洁、明晰的省、市区三级下钻地图，基于 echarts。
-
-#### 如果觉得有帮助，就请给个 star 吧！
+# 三级下钻地图演示仓库，源码请见 https://github.com/anzhou99/echarts-map
